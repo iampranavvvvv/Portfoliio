@@ -67,9 +67,6 @@ Check out the live version here: [https://iampranavvvvv.github.io](https://iampr
 
 ## 📫 Contact Me
 
-- LinkedIn: [linkedin.com/in/pranav-raut](https://linkedin.com/in/iampranavvvvv)
-- Email: your.email@example.com
+- LinkedIn:(https://linkedin.com/in/iampranavvvvv)
+- Email: rautpranav2678@gmail.com
 
-## 📄 License
-
-This project is based on the MIT-licensed [DeveloperFolio](https://github.com/saadpasta/developerFolio) and can be reused and modified for personal or educational purposes.
